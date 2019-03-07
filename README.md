@@ -1,2 +1,2 @@
 # portfolio
-My Personal Portfolio Website / Repository
+A portfolio website built using the Tachyons framework
